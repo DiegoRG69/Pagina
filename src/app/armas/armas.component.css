@@ -1,0 +1,32 @@
+
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    display: flex;
+    background-image: url('../../assets/fondo\ 1.jpg');
+}
+  
+
+
+  
+  
+.main {
+    
+    color: rgb(255, 255, 255);
+    margin: 30px; /* Centrar horizontalmente */
+    max-width: 100%; /* Ancho máximo del contenido */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centrar verticalmente */
+   
+}
+.container{
+    color: white;
+}
+
+.card{
+    background-color: rgba(79, 78, 78, 0.762);
+    color: azure;
+}
+
+

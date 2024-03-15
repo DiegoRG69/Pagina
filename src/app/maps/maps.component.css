@@ -1,0 +1,26 @@
+
+body {
+    font-family: Verdana, Geneva, sans-serif;
+   
+    display: flex;
+    background-image: url('../../assets/fondo\ map.jpg');
+}
+  
+
+
+  
+  
+.main {
+    
+    color: rgb(0, 0, 0);
+    margin: 30px; /* Centrar horizontalmente */
+    max-width: 100%; /* Ancho máximo del contenido */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centrar verticalmente */
+   
+}
+.navbarNav{
+    color: black;
+}

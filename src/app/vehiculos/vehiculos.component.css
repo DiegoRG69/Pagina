@@ -1,0 +1,28 @@
+
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    display: flex;
+    background-image: url('../../assets/fondooo.jpg');
+}
+  
+  
+.main {
+    
+    color: rgb(255, 255, 255);
+    margin: 30px; /* Centrar horizontalmente */
+    max-width: 100%; /* Ancho máximo del contenido */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centrar verticalmente */
+   
+}
+.navbarNav{
+    color: black;
+}
+
+.card{
+    background-color: rgba(46, 68, 40, 0.795);
+    border-radius: 5%;
+color: rgb(255, 255, 255);
+}
